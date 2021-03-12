@@ -8,7 +8,7 @@ import java.util.List;
 
 public class Arquivo {
     
-    private static String destino = "Filmes assistidos em 2021.csv";
+    private static String destino = "INSIRA O DESTINO DO ARQUIVO AQUI";
 
     public static List<String> lerArquivo() {
         List<String> dados = new ArrayList<>();
